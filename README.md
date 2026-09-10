@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Enzo Almeida 👋
 
-<!--
-**oenzoalmeida/oenzoalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Software Developer** e estudante de **Ciência da Computação na UNIP**.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, automação e na construção de soluções úteis, organizadas e fáceis de manter. Este perfil reúne meus projetos acadêmicos e pessoais, além da minha evolução prática como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+- [AutoCiclo](https://github.com/oenzoalmeida/autociclo)
+- [PenteFino](https://github.com/oenzoalmeida/pentefino)
+- [QueueFlow](https://github.com/oenzoalmeida/queueflow)
+- [TaskFlow](https://github.com/oenzoalmeida/taskflow)
+- [MountTrack](https://github.com/oenzoalmeida/mountrack)
+- [Sistema de Estoque em Python](https://github.com/oenzoalmeida/sistema-estoque-python)
+
+## Em evolução
+
+Atualmente, continuo aprofundando meus conhecimentos em engenharia de software, boas práticas de desenvolvimento, testes e integração contínua.
+
+---
+
+Explore os repositórios para conhecer melhor meu trabalho.
