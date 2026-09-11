@@ -6,12 +6,12 @@ Tenho interesse em desenvolvimento de software, automação e na construção de
 
 ## Projetos em destaque
 
-- [AutoCiclo](https://github.com/oenzoalmeida/autociclo) — plataforma em Next.js + Supabase para controle de manutenção automotiva, com autenticação, perfis Cliente/Admin e PWA. [Acessar projeto](https://autociclo.vercel.app)
+- **AutoCiclo** — plataforma em Next.js + Supabase para controle de manutenção automotiva, com autenticação, perfis Cliente/Admin e PWA. [Acessar projeto](https://autociclo.vercel.app)
 - [QueueFlow](https://github.com/oenzoalmeida/queueflow) — sistema full stack para gerenciamento de filas, com backend Spring Boot, frontend web, PostgreSQL e perfis Admin/Atendente. [Acessar projeto](https://queueflow-frontend.onrender.com)
 - [TaskFlow](https://github.com/oenzoalmeida/taskflow) — gerenciador de tarefas com autenticação, persistência por usuário, PostgreSQL e painel administrativo. [Acessar projeto](https://taskflow-dcl5.onrender.com)
 - [MounTrack](https://github.com/oenzoalmeida/mountrack) — aplicação de registro pessoal com contas separadas, persistência em nuvem e painel administrativo sem acesso aos registros privados dos usuários. [Acessar projeto](https://mountrack.onrender.com)
 - [Consumo de Energia 2.0](https://github.com/oenzoalmeida/consumo-energia-2.0) — evolução de projeto acadêmico para aplicação com autenticação, dados por usuário, estimativas de consumo e painel administrativo. [Acessar projeto](https://consumo-energia-2.onrender.com)
-- [PenteFino](https://github.com/oenzoalmeida/pentefino) — aplicação full stack em Java/Spring Boot + Vite, atualmente em finalização da publicação em produção.
+- **PenteFino** — aplicação full stack em Java/Spring Boot + Vite, atualmente em finalização da publicação em produção.
 - [Sistema de Estoque em Python](https://github.com/oenzoalmeida/sistema-estoque-python) — projeto em Python para controle de estoque.
 
 ## Em evolução
