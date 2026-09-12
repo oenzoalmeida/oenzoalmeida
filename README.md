@@ -14,6 +14,24 @@ Tenho interesse em desenvolvimento de software, automação e na construção de
 - **PenteFino** — aplicação full stack em Java/Spring Boot + Vite para gestão e análise de documentos, com login por sessão, verificação de e-mail e análise com IA (código privado). [Acessar demonstração](https://pentefino-backend.onrender.com) — cliente: `cliente@pentefino.app` / `t0bRwEU7d1FhiWRz` · admin: `admin@pentefino.app` / `FUKyHSEaViY9M5Er`
 - [Sistema de Estoque em Python](https://github.com/oenzoalmeida/sistema-estoque-python) — projeto em Python para controle de estoque.
 
+## Credenciais demo
+
+| Projeto | Link | Perfil | E-mail | Senha |
+|---|---|---|---|---|
+| PratoJá | [pratoja.onrender.com](https://pratoja.onrender.com) | Cliente | `cliente@pratoja.com.br` | `Cliente@123` |
+| PratoJá | — | Admin | `admin@pratoja.com.br` | `Admin@123` |
+| PenteFino | [pentefino-backend.onrender.com](https://pentefino-backend.onrender.com) | Cliente | `cliente@pentefino.app` | `t0bRwEU7d1FhiWRz` |
+| PenteFino | — | Admin | `admin@pentefino.app` | `FUKyHSEaViY9M5Er` |
+| QueueFlow | [queueflow-frontend.onrender.com](https://queueflow-frontend.onrender.com) | Atendente | `demo@queueflow.app` | `Demo@2026` |
+| TaskFlow | [taskflow-dcl5.onrender.com](https://taskflow-dcl5.onrender.com) | Usuário | `demo@taskflow.app` | `TaskFlow@2026` |
+| TaskFlow | — | Admin | `admin@taskflow.app` | `Admin@Portfolio2026` |
+| MounTrack | [mountrack.onrender.com](https://mountrack.onrender.com) | Usuário | `demo@mountrack.app` | `MounTrack@2026` |
+| MounTrack | — | Admin | `admin@mountrack.app` | `Admin@Portfolio2026` |
+| Consumo 2.0 | [consumo-energia-2.onrender.com](https://consumo-energia-2.onrender.com) | Usuário | `demo@consumoenergia.app` | `ConsumoEnergia@2026` |
+| Consumo 2.0 | — | Admin | `admin@consumoenergia.app` | `Admin@Portfolio2026` |
+| AutoCiclo | [autociclo.vercel.app](https://autociclo.vercel.app) | Cliente | `demo@autociclo.com.br` | `AutoCiclo@2026` |
+| AutoCiclo | — | Admin | `admin@autociclo.com.br` | `Admin@Portfolio2026` |
+
 ## Em evolução
 
 Continuo aprofundando meus conhecimentos em engenharia de software, arquitetura full stack, segurança, bancos de dados, testes automatizados, integração contínua e publicação de aplicações.
