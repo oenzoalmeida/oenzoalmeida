@@ -23,6 +23,7 @@ Tenho interesse em desenvolvimento de software, automação e na construção de
 | PenteFino | [pentefino-backend.onrender.com](https://pentefino-backend.onrender.com) | Cliente | `cliente@pentefino.app` | `t0bRwEU7d1FhiWRz` |
 | PenteFino | — | Admin | `admin@pentefino.app` | `FUKyHSEaViY9M5Er` |
 | QueueFlow | [queueflow-frontend.onrender.com](https://queueflow-frontend.onrender.com) | Atendente | `demo@queueflow.app` | `Demo@2026` |
+| QueueFlow | — | Admin | `admin@queueflow.app` | `Admin@Portfolio2026` |
 | TaskFlow | [taskflow-dcl5.onrender.com](https://taskflow-dcl5.onrender.com) | Usuário | `demo@taskflow.app` | `TaskFlow@2026` |
 | TaskFlow | — | Admin | `admin@taskflow.app` | `Admin@Portfolio2026` |
 | MounTrack | [mountrack.onrender.com](https://mountrack.onrender.com) | Usuário | `demo@mountrack.app` | `MounTrack@2026` |
