@@ -14,6 +14,7 @@ Tenho interesse em desenvolvimento de software, automação e na construção de
 | **Consumo de Energia 2.0** | Simulação e análise do consumo de energia elétrica por aparelho. | Node.js · Express · PostgreSQL | [consumo-energia-2.onrender.com](https://consumo-energia-2.onrender.com) | [oenzoalmeida/consumo-energia-2.0](https://github.com/oenzoalmeida/consumo-energia-2.0) |
 | **AutoCiclo** | Controle de manutenção automotiva com score, alertas e PWA. Cadastro livre. | Next.js · Supabase · TypeScript | [autociclo.vercel.app](https://autociclo.vercel.app) | *(privado)* |
 | **PenteFino** | Gestão e análise de documentos com IA (resultados indicativos, não substituem revisão profissional). | Java · Spring Boot · React · Gemini | [pentefino-backend.onrender.com](https://pentefino-backend.onrender.com) | *(privado)* |
+| **ConfereVision** | Conferência visual de kits e pedidos por imagem, com histórico, revisão e painel administrativo. | Python · Django · OpenCV · PostgreSQL | [conferevision.onrender.com](https://conferevision.onrender.com) | *(privado)* |
 | **MounTrack** | Registro pessoal de peso, medidas, sintomas e aplicações — PWA com privacidade reforçada para dados de saúde. | JavaScript · Node.js · PostgreSQL | [mountrack.onrender.com](https://mountrack.onrender.com) | *(privado)* |
 | **Calculadora Python** | Calculadora com interface gráfica (Tkinter). | Python · Tkinter | — | [oenzoalmeida/calculadora-python](https://github.com/oenzoalmeida/calculadora-python) |
 | **Sistema de Estoque Python** | Controle de estoque via terminal com orientação a objetos. | Python · POO | — | [oenzoalmeida/sistema-estoque-python](https://github.com/oenzoalmeida/sistema-estoque-python) |
@@ -30,7 +31,9 @@ Contas administrativas e internas não são públicas.
 | PenteFino | `cliente@pentefino.app` | `t0bRwEU7d1FhiWRz` |
 | MounTrack | `demo@mountrack.app` | `MounTrack@2026` |
 
-> QueueFlow e AutoCiclo não exigem credencial para avaliação: no AutoCiclo o cadastro é livre; no QueueFlow o totem, o display e a tela pública podem ser testados sem login.
+> QueueFlow, AutoCiclo e ConfereVision não exigem credencial para avaliação: no AutoCiclo e no ConfereVision o cadastro é livre; no QueueFlow o totem, o display e a tela pública podem ser testados sem login.
+
+> As demonstrações hospedadas no plano Free do Render hibernam quando ficam sem acesso, então o primeiro carregamento pode levar alguns segundos.
 
 ## Em evolução
 
