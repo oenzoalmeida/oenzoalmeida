@@ -12,7 +12,7 @@ Java · Spring Boot · Python · Django · JavaScript · Node.js · Express · P
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [PratoJá](https://github.com/oenzoalmeida/pratoja) · [demo](https://pratoja.onrender.com) | Delivery de restaurante com cardápio, carrinho, checkout e painel administrativo. | Java · Spring Boot · PostgreSQL |
+| [PratoJá](https://github.com/oenzoalmeida/pratoja) · [demo](https://pratoja.onrender.com) | Plataforma SaaS multi-tenant de cardápio digital: cada restaurante configura a própria identidade, cardápio, checkout e painel, com pedidos em tempo real. | Java · Spring Boot · PostgreSQL |
 | [QueueFlow](https://github.com/oenzoalmeida/queueflow) · [demo](https://queueflow-frontend.onrender.com) | Gerenciamento de filas e senhas em tempo real, com totem, display e perfis de atendimento. | Java · Spring Boot · WebSocket · PostgreSQL |
 | [ConfereVision](https://conferevision.onrender.com) | Conferência visual de kits por imagem e vídeo, com detecção de objetos, histórico e administração. Código privado. | Python · Django · OpenCV · PostgreSQL |
 | [TaskFlow](https://github.com/oenzoalmeida/taskflow) · [demo](https://taskflow-dcl5.onrender.com) | Gerenciador de tarefas com autenticação e dados isolados por usuário. | Node.js · Express · PostgreSQL |
