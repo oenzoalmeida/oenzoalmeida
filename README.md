@@ -16,7 +16,7 @@ Java · Spring Boot · Python · Django · JavaScript · Node.js · Express · P
 | [QueueFlow](https://github.com/oenzoalmeida/queueflow) · [demo](https://queueflow-frontend.onrender.com) | Gerenciamento de filas e senhas em tempo real, com totem, display e perfis de atendimento. | Java · Spring Boot · WebSocket · PostgreSQL |
 | [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) · [demo](https://conferevision.onrender.com) | Conferência visual de kits por imagem e vídeo, com detecção de objetos, histórico e administração. | Python · Django · OpenCV · PostgreSQL |
 | [AutoCiclo](https://github.com/oenzoalmeida/autociclo) · [demo](https://autociclo.vercel.app) | Plataforma de controle de manutenção automotiva com perfis de cliente e administrador, em formato PWA. | TypeScript · Next.js · Supabase |
-| [TaskFlow](https://github.com/oenzoalmeida/taskflow) · [demo](https://taskflow-dcl5.onrender.com) | Gerenciador de tarefas com autenticação e dados isolados por usuário. | Node.js · Express · PostgreSQL |
+| [TaskFlow](https://github.com/oenzoalmeida/taskflow) · [demo](https://oenzoa-taskflow.web.app) | Gerenciador de tarefas com autenticação e dados isolados por usuário. | Node.js · Express · PostgreSQL |
 | [Consumo de Energia](https://github.com/oenzoalmeida/consumo-energia) · [demo](https://consumo-energia-2.onrender.com) | Simulação e análise do consumo de energia elétrica por aparelho. | JavaScript · Express · PostgreSQL |
 
 Também em produção, com código privado: MounTrack (registro pessoal de saúde) e PenteFino (análise de documentos com IA).
