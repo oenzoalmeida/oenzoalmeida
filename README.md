@@ -19,6 +19,7 @@ Java · Spring Boot · Python · Django · JavaScript · Node.js · Express · P
 | [PenteFino](https://github.com/oenzoalmeida/pentefino) · [demo](https://pentefino.oenzoalmeida.blitz.cloud) | Auditoria inteligente de documentos PDF com IA (Gemini): upload, processamento e achados estruturados. | Java · Spring Boot · React |
 | [TaskFlow](https://github.com/oenzoalmeida/taskflow) · [demo](https://oenzoa-taskflow.web.app) | Gerenciador de tarefas com autenticação e dados isolados por usuário. | Node.js · Express · PostgreSQL |
 | [Consumo de Energia](https://github.com/oenzoalmeida/consumo-energia) · [demo](https://consumo-energia-2.web.app) | Simulação e análise do consumo de energia elétrica por aparelho. | JavaScript · Express · PostgreSQL |
+| [Calculadora](https://github.com/oenzoalmeida/calculadora-python) · [demo](https://oenzoa-calculadora.web.app) | Calculadora web com memória e histórico, port da minha primeira calculadora acadêmica em Python/Tkinter (preservada no repo). | HTML · CSS · JavaScript |
 
 Também em produção, com código privado: [MounTrack](https://github.com/oenzoalmeida/mountrack) · [demo](https://oenzoa-mountrack.web.app) (registro pessoal de saúde).
 
