@@ -12,7 +12,7 @@ Java · Spring Boot · Python · Django · JavaScript · Node.js · Express · P
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [PratoJá](https://github.com/oenzoalmeida/pratoja) · [demo](https://pratoja.onrender.com) | Plataforma SaaS multi-tenant de cardápio digital: cada restaurante configura a própria identidade, cardápio, checkout e painel, com pedidos em tempo real. | Java · Spring Boot · PostgreSQL |
+| [PratoJá](https://github.com/oenzoalmeida/pratoja) · [demo](https://pratoja.oenzoalmeida.blitz.cloud) | Plataforma SaaS multi-tenant de cardápio digital: cada restaurante configura a própria identidade, cardápio, checkout e painel, com pedidos em tempo real. | Java · Spring Boot · PostgreSQL |
 | [QueueFlow](https://github.com/oenzoalmeida/queueflow) · [demo](https://queueflow-frontend.onrender.com) | Gerenciamento de filas e senhas em tempo real, com totem, display e perfis de atendimento. | Java · Spring Boot · WebSocket · PostgreSQL |
 | [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) · [demo](https://conferevision.vercel.app) | Conferência visual de kits por imagem e vídeo, com detecção de objetos, histórico e administração. | Python · Django · OpenCV · PostgreSQL |
 | [AutoCiclo](https://github.com/oenzoalmeida/autociclo) · [demo](https://autociclo.vercel.app) | Plataforma de controle de manutenção automotiva com perfis de cliente e administrador, em formato PWA. | TypeScript · Next.js · Supabase |
