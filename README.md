@@ -14,7 +14,7 @@ Java · Spring Boot · JavaScript · TypeScript · Python · Node.js · React ·
 |---|---|---|
 | [PratoJá](https://github.com/oenzoalmeida/pratoja) · [demo](https://pratoja.oenzoalmeida.blitz.cloud) | SaaS multi-tenant de cardápio digital para restaurantes: lojas independentes com identidade própria, cardápio, checkout, pedidos em tempo real e painel da plataforma. Projeto comercial. | Java · Spring Boot · Thymeleaf · PostgreSQL |
 | [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) · [demo](https://conferevision.vercel.app) | Conferência visual de kits por imagem e vídeo com detecção de objetos (YOLO/ONNX embarcado na função serverless). | Python · Django · OpenCV · ONNX |
-| [PenteFino](https://github.com/oenzoalmeida/pentefino) · [demo](https://pentefino.oenzoalmeida.blitz.cloud) | Auditoria de documentos PDF com IA (Gemini): upload, análise e achados estruturados para conferência de contas. | Java · Spring Boot · React · Gemini |
+| **PenteFino** (repositório privado) · [demo](https://pentefino.oenzoalmeida.blitz.cloud) | Auditoria de documentos PDF com IA (Gemini): upload, análise e achados estruturados para conferência de contas. | Java · Spring Boot · React · Gemini |
 
 ## A trajetória
 
@@ -29,20 +29,20 @@ Meus primeiros projetos da faculdade, conservados no estado original e depois ev
 ### Evolução — aplicações web completas
 
 - [TaskFlow](https://github.com/oenzoalmeida/taskflow) · [demo](https://oenzoa-taskflow.web.app) — gerenciador de tarefas com autenticação e dados isolados por usuário. Frontend no Firebase, API na Vercel, PostgreSQL.
-- [MounTrack](https://github.com/oenzoalmeida/mountrack) · [demo](https://oenzoa-mountrack.web.app) — registro pessoal de saúde com acompanhamento de medidas. Mesma arquitetura; código privado porque é de uso pessoal.
+- **MounTrack** (repositório privado) · [demo](https://oenzoa-mountrack.web.app) — registro pessoal de saúde com acompanhamento de medidas. Mesma arquitetura; código privado porque é de uso pessoal.
 - [QueueFlow](https://github.com/oenzoalmeida/queueflow) · [demo](https://oenzoa-queueflow.web.app) — gestão de filas e senhas em tempo real com totem, display e WebSocket (Spring Boot + STOMP).
 
 ### Projetos comerciais
 
 - [AutoCiclo](https://github.com/oenzoalmeida/autociclo) · [demo](https://autociclo.vercel.app) — plataforma de controle de manutenção automotiva em formato PWA, com perfis de cliente e administrador. Next.js + Supabase.
 - [PratoJá](https://github.com/oenzoalmeida/pratoja) — descrito acima; produto em operação para restaurantes.
-- [Dona Joana Marmitaria](https://github.com/oenzoalmeida/dona-joana-marmitaria) — API de pedidos e cardápio para marmitaria real. Node.js + MongoDB.
+- **Dona Joana Marmitaria** (repositório privado) — pedidos e cardápio para uma marmitaria real: app Expo/React Native e API FastAPI + MongoDB.
 
 ### Técnicos e avançados — IA, visão computacional e ferramentas internas
 
 - [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) — descrito acima; modelo de visão computacional servindo inferência em ambiente serverless.
-- [PenteFino](https://github.com/oenzoalmeida/pentefino) — descrito acima; integração com LLM para auditoria documental.
-- [Cofre](https://github.com/oenzoalmeida/cofre) — cofre de credenciais com banco criptografado e backup automático; ferramenta interna de uso pessoal.
+- **PenteFino** (repositório privado) — descrito acima; integração com LLM para auditoria documental.
+- **Cofre** (repositório privado) — cofre de credenciais com banco criptografado e backup automático; ferramenta interna de uso pessoal.
 
 ## Sobre as demos
 
