@@ -1,49 +1,117 @@
 # Enzo Almeida
 
-Desenvolvedor de Software, terceiro ano de Ciência da Computação (UNIP, Ribeirão Preto/SP).
+Desenvolvedor de Software e estudante do terceiro ano de Ciência da Computação (UNIP, Ribeirão Preto/SP).
 
-Comecei programando utilitários em Python no terminal e hoje construo aplicações web completas — do modelo de dados ao deploy — com atenção a autenticação, testes automatizados, regras de segurança e operação em produção. Trabalho com Java/Spring Boot e JavaScript no back-end, e gosto de resolver o problema inteiro: interface, API, banco, infraestrutura e CI/CD.
+Comecei com projetos em Python durante a faculdade e fui ampliando minha prática para aplicações web, da interface ao banco de dados. Trabalho com Java/Spring Boot e JavaScript no backend, com atenção à autenticação, às regras de acesso e aos testes. Meu portfólio acompanha esse aprendizado e a aplicação dele em projetos pessoais e necessidades de negócios.
 
 ## Stack principal
 
 Java · Spring Boot · JavaScript · TypeScript · Python · Node.js · React · PostgreSQL · Firestore · Firebase · Vercel · Docker · GitHub Actions
 
-## Projetos em destaque
+## Projetos
 
-| Projeto | Sobre | Stack |
-|---|---|---|
-| [PratoJá](https://github.com/oenzoalmeida/pratoja) · [demo](https://pratoja.oenzoalmeida.blitz.cloud) | SaaS multi-tenant de cardápio digital para restaurantes: lojas independentes com identidade própria, cardápio, checkout, pedidos em tempo real e painel da plataforma. Projeto comercial. | Java · Spring Boot · Thymeleaf · PostgreSQL |
-| [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) · [demo](https://conferevision.vercel.app) | Conferência visual de kits por imagem e vídeo com detecção de objetos (YOLO/ONNX embarcado na função serverless). | Python · Django · OpenCV · ONNX |
-| **PenteFino** (repositório privado) · [demo](https://pentefino.oenzoalmeida.blitz.cloud) | Auditoria de documentos PDF com IA (Gemini): upload, análise e achados estruturados para conferência de contas. | Java · Spring Boot · React · Gemini |
+Os projetos abaixo acompanham minha formação em Ciência da Computação, dos primeiros exercícios em Python ao desenvolvimento de aplicações completas e à integração com inteligência artificial.
 
-## A trajetória
+## Projetos acadêmicos e evolução para a web
 
-### Onde comecei — Python e lógica
+### Calculadora
 
-Meus primeiros projetos da faculdade, conservados no estado original e depois evoluídos para a web como exercício de port:
+Calculadora desenvolvida em Python com interface gráfica em Tkinter, em um dos meus primeiros projetos da faculdade. Posteriormente, adaptei a lógica para o navegador, acrescentando memória, histórico e testes automatizados. A versão original permanece no repositório como parte dessa trajetória.
 
-- [Calculadora](https://github.com/oenzoalmeida/calculadora-python) — Tkinter (2026) e a [versão web](https://oenzoa-calculadora.web.app) com memória, histórico e testes automatizados.
-- [Sistema de Estoque](https://github.com/oenzoalmeida/sistema-estoque-python) — CLI de controle de estoque (2026) e a [versão web](https://oenzoa-estoque.web.app) com dashboard, histórico de movimentações e regras de segurança no Firestore.
-- [Consumo de Energia](https://github.com/oenzoalmeida/consumo-energia) · [demo](https://consumo-energia-2.web.app) — simulação e análise do consumo elétrico por aparelho, com API própria e autenticação.
+**Tecnologias:** Python, Tkinter, HTML, CSS, JavaScript.
 
-### Evolução — aplicações web completas
+[Repositório](https://github.com/oenzoalmeida/calculadora-python)
 
-- [TaskFlow](https://github.com/oenzoalmeida/taskflow) · [demo](https://oenzoa-taskflow.web.app) — gerenciador de tarefas com autenticação e dados isolados por usuário. Frontend no Firebase, API na Vercel, PostgreSQL.
-- **MounTrack** (repositório privado) · [demo](https://oenzoa-mountrack.web.app) — registro pessoal de saúde com acompanhamento de medidas. Mesma arquitetura; código privado porque é de uso pessoal.
-- [QueueFlow](https://github.com/oenzoalmeida/queueflow) · [demo](https://oenzoa-queueflow.web.app) — gestão de filas e senhas em tempo real com totem, display e WebSocket (Spring Boot + STOMP).
+### Sistema de Estoque
 
-### Projetos comerciais
+Sistema de controle de estoque criado em Python para praticar orientação a objetos e validação de regras de negócio. A evolução para a web acrescentou persistência de dados, histórico de movimentações e uma interface para acompanhar os produtos, preservando a versão de terminal.
 
-- [AutoCiclo](https://github.com/oenzoalmeida/autociclo) · [demo](https://autociclo.vercel.app) — plataforma de controle de manutenção automotiva em formato PWA, com perfis de cliente e administrador. Next.js + Supabase.
-- [PratoJá](https://github.com/oenzoalmeida/pratoja) — descrito acima; produto em operação para restaurantes.
-- **Dona Joana Marmitaria** (repositório privado) — pedidos e cardápio para uma marmitaria real: app Expo/React Native e API FastAPI + MongoDB.
+**Tecnologias:** Python, HTML, CSS, JavaScript, Cloud Firestore, Firebase Authentication.
 
-### Técnicos e avançados — IA, visão computacional e ferramentas internas
+[Repositório](https://github.com/oenzoalmeida/sistema-estoque-python)
 
-- [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) — descrito acima; modelo de visão computacional servindo inferência em ambiente serverless.
-- **PenteFino** (repositório privado) — descrito acima; integração com LLM para auditoria documental.
-- **Cofre** (repositório privado) — cofre de credenciais com banco criptografado e backup automático; ferramenta interna de uso pessoal.
+### Consumo de Energia 2.0
 
-## Sobre as demos
+Aplicação para estimar o consumo elétrico e os custos de aparelhos a partir da potência, do tempo de uso e da tarifa informada. Evoluiu de um projeto acadêmico de cálculo de consumo para uma aplicação web com autenticação e dados separados por usuário.
 
-As demos rodam em planos gratuitos e podem hibernar sem tráfego — o primeiro acesso pode levar cerca de um minuto. ConfereVision e AutoCiclo têm cadastro livre para teste. As demos do PratoJá e do PenteFino (Blitz free) dormem após inatividade e acordam na primeira abertura no navegador (~30 s).
+**Tecnologias:** HTML, CSS, JavaScript, Node.js, Express, PostgreSQL.
+
+[Repositório](https://github.com/oenzoalmeida/consumo-energia)
+
+## Aplicações web e projetos full-stack
+
+### TaskFlow
+
+Gerenciador de tarefas desenvolvido para praticar a integração entre interface, API e banco de dados. Permite organizar e acompanhar tarefas, com autenticação e isolamento dos registros por usuário. O projeto também inclui um painel administrativo separado.
+
+**Tecnologias:** HTML, CSS, JavaScript, Node.js, Express, PostgreSQL.
+
+[Repositório](https://github.com/oenzoalmeida/taskflow)
+
+### MounTrack
+
+Aplicação para registrar peso, medidas corporais, sintomas e aplicações informadas pelo usuário. O desenvolvimento aprofundou o trabalho com privacidade e controle de acesso a dados pessoais, incluindo gráficos de acompanhamento e exportação dos registros.
+
+**Tecnologias:** HTML, CSS, JavaScript, Node.js, Express, PostgreSQL.
+
+[Repositório](https://github.com/oenzoalmeida/mountrack) (privado)
+
+### QueueFlow
+
+Sistema de gerenciamento de filas de atendimento, com emissão e chamada de senhas, controle de guichês e telas de totem e display. O projeto ampliou minha prática com uma arquitetura de frontend e backend separados, comunicação em tempo real e autorização por perfil.
+
+**Tecnologias:** Java, Spring Boot, React, TypeScript, PostgreSQL, WebSocket, STOMP.
+
+[Repositório](https://github.com/oenzoalmeida/queueflow)
+
+### AutoCiclo
+
+Aplicação para organizar o histórico de veículos e acompanhar manutenções, quilometragem e gastos. O projeto reúne autenticação e armazenamento de arquivos, com regras de acesso no banco de dados, aprofundando minha experiência com Next.js e TypeScript.
+
+**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL.
+
+[Repositório](https://github.com/oenzoalmeida/autociclo)
+
+## Projetos voltados a negócios e ferramentas internas
+
+### PratoJá
+
+Sistema de cardápio digital e pedidos para restaurantes, com personalização de pratos e acompanhamento dos pedidos. A estrutura permite administrar diferentes lojas com dados separados, ampliando minha prática com modelagem de domínio e controle de acesso em Java.
+
+**Tecnologias:** Java, Spring Boot, Thymeleaf, PostgreSQL, Flyway, HTML, CSS, JavaScript.
+
+[Repositório](https://github.com/oenzoalmeida/pratoja)
+
+### Dona Joana Marmitaria
+
+Aplicação de pedidos desenvolvida para a marmitaria Dona Joana, em Ribeirão Preto. Reúne catálogo, carrinho e acompanhamento de pedidos, com integração de pagamentos via Asaas. O projeto aplica o desenvolvimento de software às necessidades de um negócio familiar.
+
+**Tecnologias:** React Native, Expo, Python, FastAPI, MongoDB, Asaas.
+
+[Repositório](https://github.com/oenzoalmeida/dona-joana-marmitaria) (privado)
+
+### Cofre
+
+Sistema interno para organizar credenciais de projetos de uma equipe. Os segredos são cifrados no servidor, com permissões de acesso e registro de visualizações e cópias. O desenvolvimento aprofundou minha prática com autenticação e proteção de informações sensíveis.
+
+**Tecnologias:** TanStack Start, React, TypeScript, Tailwind CSS, Better Auth, PostgreSQL.
+
+[Repositório](https://github.com/oenzoalmeida/cofre) (privado)
+
+## Inteligência artificial e visão computacional
+
+### PenteFino
+
+Aplicação de análise de documentos PDF com integração ao Gemini, voltada à identificação de achados para revisão pelo usuário. O projeto combina processamento em segundo plano e validação das respostas da IA, explorando sua integração com uma aplicação full-stack.
+
+**Tecnologias:** Java, Spring Boot, React, TypeScript, PostgreSQL, Gemini.
+
+[Repositório](https://github.com/oenzoalmeida/pentefino) (privado)
+
+### ConfereVision
+
+Sistema de conferência visual de kits a partir de fotos ou vídeos. Compara os objetos detectados com a composição esperada e aponta faltas ou excedentes dentro das categorias reconhecidas pelo modelo. O projeto amplia minha prática com Python ao integrar visão computacional a uma aplicação web.
+
+**Tecnologias:** Python, Django, OpenCV, YOLOX-s, ONNX, PostgreSQL.
+
+[Repositório](https://github.com/oenzoalmeida/ConfereVision)
