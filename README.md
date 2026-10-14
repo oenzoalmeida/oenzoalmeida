@@ -12,9 +12,9 @@ Java · Spring Boot · JavaScript · TypeScript · Python · Node.js · React ·
 
 | Projeto | Sobre | Stack |
 |---|---|---|
-| [PratoJá](https://github.com/oenzoalmeida/pratoja) · [demo](https://pratoja.oenzoalmeida.blitz.cloud) | SaaS multi-tenant de cardápio digital para restaurantes: lojas independentes com identidade própria, cardápio, checkout, pedidos em tempo real e painel da plataforma. Projeto comercial. | Java · Spring Boot · Thymeleaf · PostgreSQL |
+| [PratoJá](https://github.com/oenzoalmeida/pratoja) | SaaS multi-tenant de cardápio digital para restaurantes: lojas independentes com identidade própria, cardápio, checkout, pedidos em tempo real e painel da plataforma. Projeto comercial. | Java · Spring Boot · Thymeleaf · PostgreSQL |
 | [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) · [demo](https://conferevision.vercel.app) | Conferência visual de kits por imagem e vídeo com detecção de objetos (YOLO/ONNX embarcado na função serverless). | Python · Django · OpenCV · ONNX |
-| [PenteFino](https://github.com/oenzoalmeida/pentefino) · [demo](https://pentefino.oenzoalmeida.blitz.cloud) | Auditoria de documentos PDF com IA (Gemini): upload, análise e achados estruturados para conferência de contas. | Java · Spring Boot · React · Gemini |
+| [PenteFino](https://github.com/oenzoalmeida/pentefino) | Auditoria de documentos PDF com IA (Gemini): upload, análise e achados estruturados para conferência de contas. | Java · Spring Boot · React · Gemini |
 
 ## A trajetória
 
@@ -46,4 +46,4 @@ Meus primeiros projetos da faculdade, conservados no estado original e depois ev
 
 ## Sobre as demos
 
-As demos rodam em planos gratuitos e podem hibernar sem tráfego — o primeiro acesso pode levar cerca de um minuto. ConfereVision e AutoCiclo têm cadastro livre para teste.
+As demos rodam em planos gratuitos e podem hibernar sem tráfego — o primeiro acesso pode levar cerca de um minuto. ConfereVision e AutoCiclo têm cadastro livre para teste. As demos do PratoJá e do PenteFino (Blitz) estão temporariamente offline e serão relinkadas quando voltarem.
