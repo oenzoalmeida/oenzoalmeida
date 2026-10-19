@@ -54,7 +54,7 @@ Aplicação para registrar peso, medidas corporais, sintomas e aplicações info
 
 **Tecnologias:** HTML, CSS, JavaScript, Node.js, Express, PostgreSQL.
 
-[Repositório](https://github.com/oenzoalmeida/mountrack) (privado)
+Repositório privado
 
 ### QueueFlow
 
@@ -88,7 +88,7 @@ Aplicação de pedidos desenvolvida para a marmitaria Dona Joana, em Ribeirão P
 
 **Tecnologias:** React Native, Expo, Python, FastAPI, MongoDB, Asaas.
 
-[Repositório](https://github.com/oenzoalmeida/dona-joana-marmitaria) (privado)
+Repositório privado
 
 ### Cofre
 
@@ -96,7 +96,7 @@ Sistema interno para organizar credenciais de projetos de uma equipe. Os segredo
 
 **Tecnologias:** TanStack Start, React, TypeScript, Tailwind CSS, Better Auth, PostgreSQL.
 
-[Repositório](https://github.com/oenzoalmeida/cofre) (privado)
+Repositório privado
 
 ## Inteligência artificial e visão computacional
 
@@ -106,7 +106,7 @@ Aplicação de análise de documentos PDF com integração ao Gemini, voltada à
 
 **Tecnologias:** Java, Spring Boot, React, TypeScript, PostgreSQL, Gemini.
 
-[Repositório](https://github.com/oenzoalmeida/pentefino) (privado)
+Repositório privado
 
 ### ConfereVision
 
