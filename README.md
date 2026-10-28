@@ -18,13 +18,13 @@ Comecei com projetos em Python durante a faculdade e fui ampliando minha prátic
 
 ## 🛠️ Tecnologias
 
-<div align="center">
+**Backend:** `Java` · `Spring Boot` · `Python` · `Node.js`
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,nodejs,react,nextjs,postgres,firebase,docker,githubactions,vercel&perline=7" alt="Ícones das tecnologias utilizadas" />
+**Frontend:** `JavaScript` · `TypeScript` · `React` · `Next.js`
 
-</div>
+**Dados e infraestrutura:** `PostgreSQL` · `Firebase` · `Firestore` · `Docker` · `Vercel` · `GitHub Actions`
 
-**Outras ferramentas:** Firestore, Git, Supabase, Django, FastAPI e Tailwind CSS.
+**Outras ferramentas:** Git, Supabase, Django, FastAPI e Tailwind CSS.
 
 ## 💻 Projetos
 
@@ -32,19 +32,16 @@ Os projetos abaixo acompanham minha formação em Ciência da Computação, dos 
 
 ### Projetos em destaque
 
-<div align="center">
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[QueueFlow](https://github.com/oenzoalmeida/queueflow)** | Gestão de filas e guichês | Java, Spring Boot, React |
+| **[AutoCiclo](https://github.com/oenzoalmeida/autociclo)** | Histórico de veículos | Next.js, TypeScript, Supabase |
+| **[PratoJá](https://github.com/oenzoalmeida/pratoja)** | Cardápio digital e pedidos | Java, Spring Boot, PostgreSQL |
+| **[ConfereVision](https://github.com/oenzoalmeida/ConfereVision)** | Conferência visual de kits | Python, Django, OpenCV |
 
-<a href="https://github.com/oenzoalmeida/queueflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oenzoalmeida&repo=queueflow&theme=github_dark&hide_border=true" alt="QueueFlow" /></a>
-<a href="https://github.com/oenzoalmeida/autociclo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oenzoalmeida&repo=autociclo&theme=github_dark&hide_border=true" alt="AutoCiclo" /></a>
-<a href="https://github.com/oenzoalmeida/pratoja"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oenzoalmeida&repo=pratoja&theme=github_dark&hide_border=true" alt="PratoJá" /></a>
-<a href="https://github.com/oenzoalmeida/ConfereVision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oenzoalmeida&repo=ConfereVision&theme=github_dark&hide_border=true" alt="ConfereVision" /></a>
-
-</div>
 
 <details>
 <summary><strong>Projetos acadêmicos e evolução para a web</strong></summary>
-
-#### Projetos acadêmicos e evolução para a web
 
 #### Calculadora
 
@@ -70,14 +67,10 @@ Aplicação para estimar o consumo elétrico e os custos de aparelhos a partir d
 
 [Repositório](https://github.com/oenzoalmeida/consumo-energia)
 
-<details>
-<summary><strong>Aplicações web e projetos full-stack</strong></summary>
-
-##
-
 </details>
 
-## Aplicações web e projetos full-stack
+<details>
+<summary><strong>Aplicações web e projetos full-stack</strong></summary>
 
 #### TaskFlow
 
@@ -111,14 +104,10 @@ Aplicação para organizar o histórico de veículos e acompanhar manutenções,
 
 [Repositório](https://github.com/oenzoalmeida/autociclo)
 
-<details>
-<summary><strong>Projetos voltados a negócios e ferramentas internas</strong></summary>
-
-##
-
 </details>
 
-## Projetos voltados a negócios e ferramentas internas
+<details>
+<summary><strong>Projetos voltados a negócios e ferramentas internas</strong></summary>
 
 #### PratoJá
 
@@ -144,14 +133,10 @@ Sistema interno para organizar credenciais de projetos de uma equipe. Os segredo
 
 Repositório privado
 
-<details>
-<summary><strong>Inteligência artificial e visão computacional</strong></summary>
-
-##
-
 </details>
 
-## Inteligência artificial e visão computacional
+<details>
+<summary><strong>Inteligência artificial e visão computacional</strong></summary>
 
 #### PenteFino
 
@@ -173,13 +158,7 @@ Sistema de conferência visual de kits a partir de fotos ou vídeos. Compara os 
 
 ## 📊 Atividade no GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oenzoalmeida&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais presentes nos repositórios públicos" />
-
-</div>
-
-> As estatísticas são fornecidas por um serviço externo e podem ficar temporariamente indisponíveis. As linguagens refletem os repositórios analisados, não um nível de proficiência.
+[Ver contribuições e repositórios diretamente no GitHub](https://github.com/oenzoalmeida?tab=overview)
 
 ## 📫 Contato
 
