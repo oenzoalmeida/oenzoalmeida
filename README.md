@@ -160,7 +160,9 @@ Sistema de conferência visual de kits a partir de fotos ou vídeos. Compara os 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-151b23?style=flat-square&logo=github)](https://github.com/oenzoalmeida)
+[![GitHub](https://img.shields.io/badge/GitHub-oenzoalmeida-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oenzoalmeida)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzolara/)
+[![Instagram](https://img.shields.io/badge/Instagram-oenzoalmeida-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oenzoalmeida/)
 
 </div>
 
