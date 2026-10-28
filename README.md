@@ -1,14 +1,26 @@
-# Enzo Almeida
+<div align="center">
+
+![ENZO ALMEIDA em letras pixeladas](./assets/enzo-pixel-banner.svg)
+
+**Desenvolvedor de Software | Full Stack | Ciência da Computação**
+
+[![GitHub](https://img.shields.io/badge/GitHub-oenzoalmeida-151b23?style=flat-square&logo=github)](https://github.com/oenzoalmeida)
+
+</div>
+
+---
+
+## 📌 Sobre mim
 
 Desenvolvedor de Software e estudante do terceiro ano de Ciência da Computação (UNIP, Ribeirão Preto/SP).
 
 Comecei com projetos em Python durante a faculdade e fui ampliando minha prática para aplicações web, da interface ao banco de dados. Trabalho com Java/Spring Boot e JavaScript no backend, com atenção à autenticação, às regras de acesso e aos testes. Meu portfólio acompanha esse aprendizado e a aplicação dele em projetos pessoais e necessidades de negócios.
 
-## Stack principal
+## 🛠️ Tecnologias
 
 Java · Spring Boot · JavaScript · TypeScript · Python · Node.js · React · PostgreSQL · Firestore · Firebase · Vercel · Docker · GitHub Actions
 
-## Projetos
+## 💻 Projetos
 
 Os projetos abaixo acompanham minha formação em Ciência da Computação, dos primeiros exercícios em Python ao desenvolvimento de aplicações completas e à integração com inteligência artificial.
 
@@ -115,3 +127,8 @@ Sistema de conferência visual de kits a partir de fotos ou vídeos. Compara os 
 **Tecnologias:** Python, Django, OpenCV, YOLOX-s, ONNX, PostgreSQL.
 
 [Repositório](https://github.com/oenzoalmeida/ConfereVision)
+
+
+---
+
+<div align="center"><sub>Perfil e projetos de Enzo Almeida</sub></div>
