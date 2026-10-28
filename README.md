@@ -18,11 +18,28 @@ Comecei com projetos em Python durante a faculdade e fui ampliando minha prátic
 
 ## 🛠️ Tecnologias
 
-Java · Spring Boot · JavaScript · TypeScript · Python · Node.js · React · PostgreSQL · Firestore · Firebase · Vercel · Docker · GitHub Actions
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,nodejs,react,nextjs,postgres,firebase,docker,githubactions,vercel&perline=7" alt="Ícones das tecnologias utilizadas" />
+
+</div>
+
+**Outras ferramentas:** Firestore, Git, Supabase, Django, FastAPI e Tailwind CSS.
 
 ## 💻 Projetos
 
 Os projetos abaixo acompanham minha formação em Ciência da Computação, dos primeiros exercícios em Python ao desenvolvimento de aplicações completas e à integração com inteligência artificial.
+
+### Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/oenzoalmeida/queueflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oenzoalmeida&repo=queueflow&theme=github_dark&hide_border=true" alt="QueueFlow" /></a>
+<a href="https://github.com/oenzoalmeida/autociclo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oenzoalmeida&repo=autociclo&theme=github_dark&hide_border=true" alt="AutoCiclo" /></a>
+<a href="https://github.com/oenzoalmeida/pratoja"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oenzoalmeida&repo=pratoja&theme=github_dark&hide_border=true" alt="PratoJá" /></a>
+<a href="https://github.com/oenzoalmeida/ConfereVision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oenzoalmeida&repo=ConfereVision&theme=github_dark&hide_border=true" alt="ConfereVision" /></a>
+
+</div>
 
 ## Projetos acadêmicos e evolução para a web
 
@@ -128,6 +145,24 @@ Sistema de conferência visual de kits a partir de fotos ou vídeos. Compara os 
 
 [Repositório](https://github.com/oenzoalmeida/ConfereVision)
 
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oenzoalmeida&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais presentes nos repositórios públicos" />
+
+</div>
+
+> As estatísticas são fornecidas por um serviço externo e podem ficar temporariamente indisponíveis. As linguagens refletem os repositórios analisados, não um nível de proficiência.
+
+## 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-151b23?style=flat-square&logo=github)](https://github.com/oenzoalmeida)
+
+</div>
 
 ---
 
