@@ -41,9 +41,12 @@ Os projetos abaixo acompanham minha formação em Ciência da Computação, dos 
 
 </div>
 
-## Projetos acadêmicos e evolução para a web
+<details>
+<summary><strong>Projetos acadêmicos e evolução para a web</strong></summary>
 
-### Calculadora
+#### Projetos acadêmicos e evolução para a web
+
+#### Calculadora
 
 Calculadora desenvolvida em Python com interface gráfica em Tkinter, em um dos meus primeiros projetos da faculdade. Posteriormente, adaptei a lógica para o navegador, acrescentando memória, histórico e testes automatizados. A versão original permanece no repositório como parte dessa trajetória.
 
@@ -51,7 +54,7 @@ Calculadora desenvolvida em Python com interface gráfica em Tkinter, em um dos 
 
 [Repositório](https://github.com/oenzoalmeida/calculadora-python)
 
-### Sistema de Estoque
+#### Sistema de Estoque
 
 Sistema de controle de estoque criado em Python para praticar orientação a objetos e validação de regras de negócio. A evolução para a web acrescentou persistência de dados, histórico de movimentações e uma interface para acompanhar os produtos, preservando a versão de terminal.
 
@@ -59,7 +62,7 @@ Sistema de controle de estoque criado em Python para praticar orientação a obj
 
 [Repositório](https://github.com/oenzoalmeida/sistema-estoque-python)
 
-### Consumo de Energia 2.0
+#### Consumo de Energia 2.0
 
 Aplicação para estimar o consumo elétrico e os custos de aparelhos a partir da potência, do tempo de uso e da tarifa informada. Evoluiu de um projeto acadêmico de cálculo de consumo para uma aplicação web com autenticação e dados separados por usuário.
 
@@ -67,9 +70,16 @@ Aplicação para estimar o consumo elétrico e os custos de aparelhos a partir d
 
 [Repositório](https://github.com/oenzoalmeida/consumo-energia)
 
+<details>
+<summary><strong>Aplicações web e projetos full-stack</strong></summary>
+
+##
+
+</details>
+
 ## Aplicações web e projetos full-stack
 
-### TaskFlow
+#### TaskFlow
 
 Gerenciador de tarefas desenvolvido para praticar a integração entre interface, API e banco de dados. Permite organizar e acompanhar tarefas, com autenticação e isolamento dos registros por usuário. O projeto também inclui um painel administrativo separado.
 
@@ -77,7 +87,7 @@ Gerenciador de tarefas desenvolvido para praticar a integração entre interface
 
 [Repositório](https://github.com/oenzoalmeida/taskflow)
 
-### MounTrack
+#### MounTrack
 
 Aplicação para registrar peso, medidas corporais, sintomas e aplicações informadas pelo usuário. O desenvolvimento aprofundou o trabalho com privacidade e controle de acesso a dados pessoais, incluindo gráficos de acompanhamento e exportação dos registros.
 
@@ -85,7 +95,7 @@ Aplicação para registrar peso, medidas corporais, sintomas e aplicações info
 
 Repositório privado
 
-### QueueFlow
+#### QueueFlow
 
 Sistema de gerenciamento de filas de atendimento, com emissão e chamada de senhas, controle de guichês e telas de totem e display. O projeto ampliou minha prática com uma arquitetura de frontend e backend separados, comunicação em tempo real e autorização por perfil.
 
@@ -93,7 +103,7 @@ Sistema de gerenciamento de filas de atendimento, com emissão e chamada de senh
 
 [Repositório](https://github.com/oenzoalmeida/queueflow)
 
-### AutoCiclo
+#### AutoCiclo
 
 Aplicação para organizar o histórico de veículos e acompanhar manutenções, quilometragem e gastos. O projeto reúne autenticação e armazenamento de arquivos, com regras de acesso no banco de dados, aprofundando minha experiência com Next.js e TypeScript.
 
@@ -101,9 +111,16 @@ Aplicação para organizar o histórico de veículos e acompanhar manutenções,
 
 [Repositório](https://github.com/oenzoalmeida/autociclo)
 
+<details>
+<summary><strong>Projetos voltados a negócios e ferramentas internas</strong></summary>
+
+##
+
+</details>
+
 ## Projetos voltados a negócios e ferramentas internas
 
-### PratoJá
+#### PratoJá
 
 Sistema de cardápio digital e pedidos para restaurantes, com personalização de pratos e acompanhamento dos pedidos. A estrutura permite administrar diferentes lojas com dados separados, ampliando minha prática com modelagem de domínio e controle de acesso em Java.
 
@@ -111,7 +128,7 @@ Sistema de cardápio digital e pedidos para restaurantes, com personalização d
 
 [Repositório](https://github.com/oenzoalmeida/pratoja)
 
-### Dona Joana Marmitaria
+#### Dona Joana Marmitaria
 
 Aplicação de pedidos desenvolvida para a marmitaria Dona Joana, em Ribeirão Preto. Reúne catálogo, carrinho e acompanhamento de pedidos, com integração de pagamentos via Asaas. O projeto aplica o desenvolvimento de software às necessidades de um negócio familiar.
 
@@ -119,7 +136,7 @@ Aplicação de pedidos desenvolvida para a marmitaria Dona Joana, em Ribeirão P
 
 Repositório privado
 
-### Cofre
+#### Cofre
 
 Sistema interno para organizar credenciais de projetos de uma equipe. Os segredos são cifrados no servidor, com permissões de acesso e registro de visualizações e cópias. O desenvolvimento aprofundou minha prática com autenticação e proteção de informações sensíveis.
 
@@ -127,9 +144,16 @@ Sistema interno para organizar credenciais de projetos de uma equipe. Os segredo
 
 Repositório privado
 
+<details>
+<summary><strong>Inteligência artificial e visão computacional</strong></summary>
+
+##
+
+</details>
+
 ## Inteligência artificial e visão computacional
 
-### PenteFino
+#### PenteFino
 
 Aplicação de análise de documentos PDF com integração ao Gemini, voltada à identificação de achados para revisão pelo usuário. O projeto combina processamento em segundo plano e validação das respostas da IA, explorando sua integração com uma aplicação full-stack.
 
@@ -137,7 +161,7 @@ Aplicação de análise de documentos PDF com integração ao Gemini, voltada à
 
 Repositório privado
 
-### ConfereVision
+#### ConfereVision
 
 Sistema de conferência visual de kits a partir de fotos ou vídeos. Compara os objetos detectados com a composição esperada e aponta faltas ou excedentes dentro das categorias reconhecidas pelo modelo. O projeto amplia minha prática com Python ao integrar visão computacional a uma aplicação web.
 
@@ -145,6 +169,7 @@ Sistema de conferência visual de kits a partir de fotos ou vídeos. Compara os 
 
 [Repositório](https://github.com/oenzoalmeida/ConfereVision)
 
+</details>
 
 ## 📊 Atividade no GitHub
 
