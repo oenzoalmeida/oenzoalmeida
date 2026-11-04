@@ -80,6 +80,14 @@ Gerenciador de tarefas desenvolvido para praticar a integração entre interface
 
 [Repositório](https://github.com/oenzoalmeida/taskflow)
 
+#### EventPass
+
+Sistema web para organizar eventos, inscrições e controle de presença. Organizadores publicam eventos, validam presença por QR Code e exportam relatórios; participantes se inscrevem em páginas públicas e acumulam pontos após o check-in.
+
+**Tecnologias:** TypeScript, React, Node.js, PostgreSQL.
+
+[Repositório](https://github.com/oenzoalmeida/eventpass)
+
 #### MounTrack
 
 Aplicação para registrar peso, medidas corporais, sintomas e aplicações informadas pelo usuário. O desenvolvimento aprofundou o trabalho com privacidade e controle de acesso a dados pessoais, incluindo gráficos de acompanhamento e exportação dos registros.
@@ -119,9 +127,9 @@ Sistema de cardápio digital e pedidos para restaurantes, com personalização d
 
 #### Dona Joana Marmitaria
 
-Aplicação de pedidos desenvolvida para a marmitaria Dona Joana, em Ribeirão Preto. Reúne catálogo, carrinho e acompanhamento de pedidos, com integração de pagamentos via Asaas. O projeto aplica o desenvolvimento de software às necessidades de um negócio familiar.
+Aplicação de pedidos desenvolvida para a marmitaria Dona Joana, em Ribeirão Preto. Reúne catálogo, carrinho e acompanhamento de pedidos, com integração de pagamentos via PagBank. O projeto aplica o desenvolvimento de software às necessidades de um negócio familiar.
 
-**Tecnologias:** React Native, Expo, Python, FastAPI, MongoDB, Asaas.
+**Tecnologias:** React Native, Expo, Python, FastAPI, MongoDB, PagBank.
 
 Repositório privado
 
