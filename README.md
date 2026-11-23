@@ -31,7 +31,6 @@ Seleção de projetos que representam diferentes problemas, decisões técnicas 
 
 [![Prévia do QueueFlow](https://raw.githubusercontent.com/oenzoalmeida/queueflow/main/docs/screenshots/02-dashboard.png)](https://github.com/oenzoalmeida/queueflow#capturas-de-tela)
 
-
 Sistema de gestão de filas, senhas e guichês com emissão no totem, atendimento operacional e display público. A comunicação em tempo real conecta as diferentes telas da operação.
 
 **Stack:** Java, Spring Boot, React, TypeScript, PostgreSQL, WebSocket/STOMP.
@@ -42,8 +41,7 @@ Sistema de gestão de filas, senhas e guichês com emissão no totem, atendiment
 
 ### [PratoJá](https://github.com/oenzoalmeida/pratoja) · Cardápio e pedidos para restaurantes
 
-[![Prévia do PratoJá](https://raw.githubusercontent.com/oenzoalmeida/pratoja/main/docs/screenshots/cardapio.png)](https://github.com/oenzoalmeida/pratoja#capturas-de-tela)
-
+[![Prévia do PratoJá](https://raw.githubusercontent.com/oenzoalmeida/pratoja/main/docs/screenshots/cardapio.png)](https://github.com/oenzoalmeida/pratoja#telas)
 
 Aplicação para catálogo, personalização de pratos, carrinho, pedidos e gestão de lojas. Inclui painéis administrativos e separação dos dados de cada estabelecimento.
 
@@ -57,7 +55,6 @@ Aplicação para catálogo, personalização de pratos, carrinho, pedidos e gest
 
 [![Prévia do EventPass](https://raw.githubusercontent.com/oenzoalmeida/eventpass/main/docs/screenshots/area-publica.png)](https://github.com/oenzoalmeida/eventpass#capturas-de-tela)
 
-
 Plataforma para publicação de eventos, inscrições, emissão de ingressos com QR Code e check-in. Inclui relatórios de presença e pontuação dos participantes após validação do ingresso.
 
 **Stack da versão principal:** TypeScript, React, Node.js e SQLite. Há uma migração para PostgreSQL (Neon) documentada em uma branch de homologação.
@@ -70,7 +67,6 @@ Plataforma para publicação de eventos, inscrições, emissão de ingressos com
 
 [![Prévia do AutoCiclo](https://raw.githubusercontent.com/oenzoalmeida/autociclo/main/docs/screenshots/inicio.png)](https://github.com/oenzoalmeida/autociclo#capturas-de-tela)
 
-
 Aplicação web para acompanhar manutenções, quilometragem, gastos, documentos e alertas de veículos. Oferece relatórios e uma experiência responsiva, incluindo instalação como PWA.
 
 **Stack:** Next.js, React, TypeScript, Supabase e PostgreSQL.
@@ -82,7 +78,6 @@ Aplicação web para acompanhar manutenções, quilometragem, gastos, documentos
 ### [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) · Visão computacional aplicada
 
 [![Prévia do ConfereVision](https://raw.githubusercontent.com/oenzoalmeida/ConfereVision/main/docs/screenshots/entrada.png)](https://github.com/oenzoalmeida/ConfereVision#capturas-de-tela)
-
 
 Sistema de conferência visual de kits por imagem ou vídeo. Compara a composição esperada com objetos detectados e sinaliza possíveis faltas e excedentes, dentro das categorias reconhecidas pelo modelo.
 
