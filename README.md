@@ -9,7 +9,7 @@ Java · Spring Boot · JavaScript · React · PostgreSQL
 
 Desenvolvo sistemas web e soluções para problemas reais, com interesse especial em backend, arquitetura e aplicações de inteligência artificial.
 
-[LinkedIn](https://www.linkedin.com/in/enzolara/) · [Repositórios](https://github.com/oenzoalmeida?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/enzolara/) · [Portfólio (código)](https://github.com/oenzoalmeida/portfolio-enzo-almeida) · [Repositórios](https://github.com/oenzoalmeida?tab=repositories)
 
 </div>
 
@@ -123,6 +123,10 @@ Em andamento desde 2024.
 
 **Projetos independentes e trabalhos freelancer**  
 Desenvolvimento de aplicações voltadas a operações, organização de dados e processos de negócios.
+
+## Portfólio
+
+O código-fonte recuperado do meu portfólio está disponível em [portfolio-enzo-almeida](https://github.com/oenzoalmeida/portfolio-enzo-almeida). A publicação e o acesso público ao site podem depender das configurações de hospedagem.
 
 ## Contato
 
