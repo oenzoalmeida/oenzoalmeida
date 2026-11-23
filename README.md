@@ -51,7 +51,7 @@ Aplicação para catálogo, personalização de pratos, carrinho, pedidos e gest
 
 Plataforma para publicação de eventos, inscrições, emissão de ingressos com QR Code e check-in. Inclui relatórios de presença e pontuação dos participantes após validação do ingresso.
 
-**Stack:** TypeScript, React, Node.js e PostgreSQL.
+**Stack da versão principal:** TypeScript, React, Node.js e SQLite. Há uma migração para PostgreSQL (Neon) documentada em uma branch de homologação.
 
 **Aspectos técnicos:** controle de vagas, prevenção de inscrições duplicadas, fluxos de autorização, testes e uma jornada demonstrativa com dados fictícios.
 
