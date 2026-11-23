@@ -1,183 +1,134 @@
 <div align="center">
 
-![ENZO ALMEIDA em letras pixeladas](./assets/enzo-pixel-banner.svg)
+![Enzo Almeida em letras pixeladas](./assets/enzo-pixel-banner.svg)
 
-**Desenvolvedor de Software | Full Stack | Ciência da Computação**
+### Enzo Almeida
+**Desenvolvedor de Software Júnior | Full Stack**
 
-[![GitHub](https://img.shields.io/badge/GitHub-oenzoalmeida-151b23?style=flat-square&logo=github)](https://github.com/oenzoalmeida)
+Java · Spring Boot · JavaScript · React · PostgreSQL
+
+Desenvolvo sistemas web e soluções para problemas reais, com interesse especial em backend, arquitetura e aplicações de inteligência artificial.
+
+[LinkedIn](https://www.linkedin.com/in/enzolara/) · [Repositórios](https://github.com/oenzoalmeida?tab=repositories)
 
 </div>
 
 ---
 
-## 📌 Sobre mim
+## Sobre mim
 
-Desenvolvedor de Software e estudante do terceiro ano de Ciência da Computação (UNIP, Ribeirão Preto/SP).
+Sou **Desenvolvedor de Software Júnior na Zé Registra** e estudante de **Ciência da Computação na UNIP**, desde 2024, em Ribeirão Preto (SP).
 
-Comecei com projetos em Python durante a faculdade e fui ampliando minha prática para aplicações web, da interface ao banco de dados. Trabalho com Java/Spring Boot e JavaScript no backend, com atenção à autenticação, às regras de acesso e aos testes. Meu portfólio acompanha esse aprendizado e a aplicação dele em projetos pessoais e necessidades de negócios.
+No trabalho, participo do desenvolvimento de funcionalidades, manutenção de sistemas internos, correção de bugs, testes e melhorias de experiência de uso. Também desenvolvo projetos próprios e trabalhos freelancer, conectando necessidades de negócio a soluções técnicas.
 
-## 🛠️ Tecnologias
+Tenho trabalhado principalmente com **Java, Spring Boot, JavaScript, React, Node.js e PostgreSQL**. Busco aprofundar meus conhecimentos em **backend, arquitetura de software, cloud e inteligência artificial**.
 
-**Backend:** `Java` · `Spring Boot` · `Python` · `Node.js`
+## Projetos em destaque
 
-**Frontend:** `JavaScript` · `TypeScript` · `React` · `Next.js`
+Seleção de projetos que representam diferentes problemas, decisões técnicas e tecnologias. Os links levam ao código e à documentação; as demonstrações são ambientes de portfólio e podem ter limitações.
 
-**Dados e infraestrutura:** `PostgreSQL` · `Firebase` · `Firestore` · `Docker` · `Vercel` · `GitHub Actions`
+### [QueueFlow](https://github.com/oenzoalmeida/queueflow) · Atendimento em tempo real
 
-**Outras ferramentas:** Git, Supabase, Django, FastAPI e Tailwind CSS.
+[![Prévia do QueueFlow](https://raw.githubusercontent.com/oenzoalmeida/queueflow/main/docs/screenshots/02-dashboard.png)](https://github.com/oenzoalmeida/queueflow#capturas-de-tela)
 
-## 💻 Projetos
+Sistema de gestão de filas, senhas e guichês com emissão no totem, atendimento operacional e display público. A comunicação em tempo real conecta as diferentes telas da operação.
 
-Os projetos abaixo acompanham minha formação em Ciência da Computação, dos primeiros exercícios em Python ao desenvolvimento de aplicações completas e à integração com inteligência artificial.
+**Stack:** Java, Spring Boot, React, TypeScript, PostgreSQL, WebSocket/STOMP.
 
-### Projetos em destaque
+**Aspectos técnicos:** autenticação JWT, autorização por perfil, migrações Flyway e testes de interface documentados no repositório.
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[QueueFlow](https://github.com/oenzoalmeida/queueflow)** | Gestão de filas e guichês | Java, Spring Boot, React |
-| **[AutoCiclo](https://github.com/oenzoalmeida/autociclo)** | Histórico de veículos | Next.js, TypeScript, Supabase |
-| **[PratoJá](https://github.com/oenzoalmeida/pratoja)** | Cardápio digital e pedidos | Java, Spring Boot, PostgreSQL |
-| **[ConfereVision](https://github.com/oenzoalmeida/ConfereVision)** | Conferência visual de kits | Python, Django, OpenCV |
+[Ver código e capturas](https://github.com/oenzoalmeida/queueflow) · [Acessar demonstração](https://queueflow-backend-oe.azurewebsites.net)
 
+### [PratoJá](https://github.com/oenzoalmeida/pratoja) · Cardápio e pedidos para restaurantes
+
+[![Prévia do PratoJá](https://raw.githubusercontent.com/oenzoalmeida/pratoja/main/docs/screenshots/cardapio.png)](https://github.com/oenzoalmeida/pratoja#telas)
+
+Aplicação para catálogo, personalização de pratos, carrinho, pedidos e gestão de lojas. Inclui painéis administrativos e separação dos dados de cada estabelecimento.
+
+**Stack:** Java, Spring Boot, Thymeleaf, PostgreSQL, Flyway.
+
+**Aspectos técnicos:** regras de negócio, diferentes perfis de acesso, isolamento por loja e testes executados em CI.
+
+[Ver código e capturas](https://github.com/oenzoalmeida/pratoja) · [Acessar demonstração](https://18.220.70.13.sslip.io)
+
+### [EventPass](https://github.com/oenzoalmeida/eventpass) · Eventos e controle de presença
+
+[![Prévia do EventPass](https://raw.githubusercontent.com/oenzoalmeida/eventpass/main/docs/screenshots/area-publica.png)](https://github.com/oenzoalmeida/eventpass#capturas-de-tela)
+
+Plataforma para publicação de eventos, inscrições, emissão de ingressos com QR Code e check-in. Inclui relatórios de presença e pontuação dos participantes após validação do ingresso.
+
+**Stack da versão principal:** TypeScript, React, Node.js e SQLite. Há uma migração para PostgreSQL (Neon) documentada em uma branch de homologação.
+
+**Aspectos técnicos:** controle de vagas, prevenção de inscrições duplicadas, fluxos de autorização, testes e uma jornada demonstrativa com dados fictícios.
+
+[Ver código e capturas](https://github.com/oenzoalmeida/eventpass) · [Explorar demonstração](https://eventpass.3.149.24.102.sslip.io/demo)
+
+### [AutoCiclo](https://github.com/oenzoalmeida/autociclo) · Histórico e manutenção de veículos
+
+[![Prévia do AutoCiclo](https://raw.githubusercontent.com/oenzoalmeida/autociclo/main/docs/screenshots/inicio.png)](https://github.com/oenzoalmeida/autociclo#capturas-de-tela)
+
+Aplicação web para acompanhar manutenções, quilometragem, gastos, documentos e alertas de veículos. Oferece relatórios e uma experiência responsiva, incluindo instalação como PWA.
+
+**Stack:** Next.js, React, TypeScript, Supabase e PostgreSQL.
+
+**Aspectos técnicos:** autenticação, armazenamento privado de arquivos, Row Level Security (RLS) e testes de regras de calendário.
+
+[Ver código e capturas](https://github.com/oenzoalmeida/autociclo) · [Acessar demonstração](https://autociclo.vercel.app)
+
+### [ConfereVision](https://github.com/oenzoalmeida/ConfereVision) · Visão computacional aplicada
+
+[![Prévia do ConfereVision](https://raw.githubusercontent.com/oenzoalmeida/ConfereVision/main/docs/screenshots/entrada.png)](https://github.com/oenzoalmeida/ConfereVision#capturas-de-tela)
+
+Sistema de conferência visual de kits por imagem ou vídeo. Compara a composição esperada com objetos detectados e sinaliza possíveis faltas e excedentes, dentro das categorias reconhecidas pelo modelo.
+
+**Stack:** Python, Django, OpenCV, YOLOX-s, ONNX e PostgreSQL.
+
+**Aspectos técnicos:** inferência no servidor, tratamento de arquivos, histórico privado por usuário e limites explícitos para a detecção.
+
+[Ver código e capturas](https://github.com/oenzoalmeida/ConfereVision) · [Acessar demonstração](https://conferevision.vercel.app)
 
 <details>
-<summary><strong>Projetos acadêmicos e evolução para a web</strong></summary>
+<summary><strong>Outros projetos e trajetória de aprendizado</strong></summary>
 
-#### Calculadora
+| Projeto | O que explora |
+| :--- | :--- |
+| [TaskFlow](https://github.com/oenzoalmeida/taskflow) | Tarefas, autenticação, API e persistência de dados |
+| [Consumo de Energia](https://github.com/oenzoalmeida/consumo-energia) | Simulação de consumo, cálculos e aplicação web |
+| [Sistema de Estoque](https://github.com/oenzoalmeida/sistema-estoque-python) | Orientação a objetos, regras de estoque e evolução para web |
+| [Calculadora em Python](https://github.com/oenzoalmeida/calculadora-python) | Aprendizado em Python e evolução de interface |
 
-Calculadora desenvolvida em Python com interface gráfica em Tkinter, em um dos meus primeiros projetos da faculdade. Posteriormente, adaptei a lógica para o navegador, acrescentando memória, histórico e testes automatizados. A versão original permanece no repositório como parte dessa trajetória.
-
-**Tecnologias:** Python, Tkinter, HTML, CSS, JavaScript.
-
-[Repositório](https://github.com/oenzoalmeida/calculadora-python)
-
-#### Sistema de Estoque
-
-Sistema de controle de estoque criado em Python para praticar orientação a objetos e validação de regras de negócio. A evolução para a web acrescentou persistência de dados, histórico de movimentações e uma interface para acompanhar os produtos, preservando a versão de terminal.
-
-**Tecnologias:** Python, HTML, CSS, JavaScript, Cloud Firestore, Firebase Authentication.
-
-[Repositório](https://github.com/oenzoalmeida/sistema-estoque-python)
-
-#### Consumo de Energia 2.0
-
-Aplicação para estimar o consumo elétrico e os custos de aparelhos a partir da potência, do tempo de uso e da tarifa informada. Evoluiu de um projeto acadêmico de cálculo de consumo para uma aplicação web com autenticação e dados separados por usuário.
-
-**Tecnologias:** HTML, CSS, JavaScript, Node.js, Express, PostgreSQL.
-
-[Repositório](https://github.com/oenzoalmeida/consumo-energia)
+**Projetos com código privado:** PenteFino (análise de documentos PDF com integração de IA e processamento em segundo plano), Dona Joana Marmitaria (pedidos para negócio familiar), Cofre (gestão interna de credenciais) e MounTrack (acompanhamento de registros pessoais). Esses projetos são mencionados como experiência de desenvolvimento, sem expor código ou dados privados.
 
 </details>
 
-<details>
-<summary><strong>Aplicações web e projetos full-stack</strong></summary>
+## Tecnologias e práticas
 
-#### TaskFlow
+| Área | Tecnologias e ferramentas |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Python, Node.js, FastAPI, Django |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, HTML, CSS |
+| **Dados** | PostgreSQL, Supabase, Firebase/Firestore |
+| **Ferramentas e infraestrutura** | Git, GitHub Actions, Docker, Vercel |
+| **Práticas presentes nos projetos** | APIs, autenticação, controle de acesso, testes automatizados, CI e modelagem de dados |
 
-Gerenciador de tarefas desenvolvido para praticar a integração entre interface, API e banco de dados. Permite organizar e acompanhar tarefas, com autenticação e isolamento dos registros por usuário. O projeto também inclui um painel administrativo separado.
+A seleção acima reúne tecnologias usadas em experiências profissionais, estudos e projetos com diferentes níveis de aprofundamento; não representa o mesmo grau de domínio em todas elas.
 
-**Tecnologias:** HTML, CSS, JavaScript, Node.js, Express, PostgreSQL.
+## Experiência e formação
 
-[Repositório](https://github.com/oenzoalmeida/taskflow)
+**Zé Registra · Desenvolvedor de Software Júnior / Full Stack**  
+Desenvolvimento e manutenção de sistemas internos, implementação de funcionalidades, correção de bugs, testes e melhorias de UX.
 
-#### EventPass
+**UNIP · Bacharelado em Ciência da Computação**  
+Em andamento desde 2024.
 
-Sistema web para organizar eventos, inscrições e controle de presença. Organizadores publicam eventos, validam presença por QR Code e exportam relatórios; participantes se inscrevem em páginas públicas e acumulam pontos após o check-in.
+**Projetos independentes e trabalhos freelancer**  
+Desenvolvimento de aplicações voltadas a operações, organização de dados e processos de negócios.
 
-**Tecnologias:** TypeScript, React, Node.js, PostgreSQL.
+## Contato
 
-[Repositório](https://github.com/oenzoalmeida/eventpass)
-
-#### MounTrack
-
-Aplicação para registrar peso, medidas corporais, sintomas e aplicações informadas pelo usuário. O desenvolvimento aprofundou o trabalho com privacidade e controle de acesso a dados pessoais, incluindo gráficos de acompanhamento e exportação dos registros.
-
-**Tecnologias:** HTML, CSS, JavaScript, Node.js, Express, PostgreSQL.
-
-Repositório privado
-
-#### QueueFlow
-
-Sistema de gerenciamento de filas de atendimento, com emissão e chamada de senhas, controle de guichês e telas de totem e display. O projeto ampliou minha prática com uma arquitetura de frontend e backend separados, comunicação em tempo real e autorização por perfil.
-
-**Tecnologias:** Java, Spring Boot, React, TypeScript, PostgreSQL, WebSocket, STOMP.
-
-[Repositório](https://github.com/oenzoalmeida/queueflow)
-
-#### AutoCiclo
-
-Aplicação para organizar o histórico de veículos e acompanhar manutenções, quilometragem e gastos. O projeto reúne autenticação e armazenamento de arquivos, com regras de acesso no banco de dados, aprofundando minha experiência com Next.js e TypeScript.
-
-**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL.
-
-[Repositório](https://github.com/oenzoalmeida/autociclo)
-
-</details>
-
-<details>
-<summary><strong>Projetos voltados a negócios e ferramentas internas</strong></summary>
-
-#### PratoJá
-
-Sistema de cardápio digital e pedidos para restaurantes, com personalização de pratos e acompanhamento dos pedidos. A estrutura permite administrar diferentes lojas com dados separados, ampliando minha prática com modelagem de domínio e controle de acesso em Java.
-
-**Tecnologias:** Java, Spring Boot, Thymeleaf, PostgreSQL, Flyway, HTML, CSS, JavaScript.
-
-[Repositório](https://github.com/oenzoalmeida/pratoja)
-
-#### Dona Joana Marmitaria
-
-Aplicação de pedidos desenvolvida para a marmitaria Dona Joana, em Ribeirão Preto. Reúne catálogo, carrinho e acompanhamento de pedidos, com integração de pagamentos via PagBank. O projeto aplica o desenvolvimento de software às necessidades de um negócio familiar.
-
-**Tecnologias:** React Native, Expo, Python, FastAPI, MongoDB, PagBank.
-
-Repositório privado
-
-#### Cofre
-
-Sistema interno para organizar credenciais de projetos de uma equipe. Os segredos são cifrados no servidor, com permissões de acesso e registro de visualizações e cópias. O desenvolvimento aprofundou minha prática com autenticação e proteção de informações sensíveis.
-
-**Tecnologias:** TanStack Start, React, TypeScript, Tailwind CSS, Better Auth, PostgreSQL.
-
-Repositório privado
-
-</details>
-
-<details>
-<summary><strong>Inteligência artificial e visão computacional</strong></summary>
-
-#### PenteFino
-
-Aplicação de análise de documentos PDF com integração ao Gemini, voltada à identificação de achados para revisão pelo usuário. O projeto combina processamento em segundo plano e validação das respostas da IA, explorando sua integração com uma aplicação full-stack.
-
-**Tecnologias:** Java, Spring Boot, React, TypeScript, PostgreSQL, Gemini.
-
-Repositório privado
-
-#### ConfereVision
-
-Sistema de conferência visual de kits a partir de fotos ou vídeos. Compara os objetos detectados com a composição esperada e aponta faltas ou excedentes dentro das categorias reconhecidas pelo modelo. O projeto amplia minha prática com Python ao integrar visão computacional a uma aplicação web.
-
-**Tecnologias:** Python, Django, OpenCV, YOLOX-s, ONNX, PostgreSQL.
-
-[Repositório](https://github.com/oenzoalmeida/ConfereVision)
-
-</details>
-
-## 📊 Atividade no GitHub
-
-[Ver contribuições e repositórios diretamente no GitHub](https://github.com/oenzoalmeida?tab=overview)
-
-## 📫 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-oenzoalmeida-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oenzoalmeida)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzolara/)
-[![Instagram](https://img.shields.io/badge/Instagram-oenzoalmeida-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oenzoalmeida/)
-
-</div>
+- **LinkedIn:** [linkedin.com/in/enzolara](https://www.linkedin.com/in/enzolara/)
+- **GitHub:** [github.com/oenzoalmeida](https://github.com/oenzoalmeida)
 
 ---
 
-<div align="center"><sub>Perfil e projetos de Enzo Almeida</sub></div>
+<div align="center"><sub>Projetos e documentação atualizados conforme a evolução de cada repositório.</sub></div>
