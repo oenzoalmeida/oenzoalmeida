@@ -7,7 +7,7 @@
 
 Java · Spring Boot · JavaScript · React · PostgreSQL
 
-Desenvolvo sistemas web e soluções para problemas reais, com interesse especial em backend, arquitetura e aplicações de inteligência artificial.
+Desenvolvo aplicações web e sistemas internos. Tenho interesse especial em backend, arquitetura de software e inteligência artificial.
 
 [LinkedIn](https://www.linkedin.com/in/enzolara/) · [Portfólio](https://portfolio-enzo-almeida.vercel.app) · [Código do portfólio](https://github.com/oenzoalmeida/portfolio-enzo-almeida) · [Repositórios](https://github.com/oenzoalmeida?tab=repositories)
 
@@ -19,19 +19,19 @@ Desenvolvo sistemas web e soluções para problemas reais, com interesse especia
 
 Sou **Desenvolvedor de Software Júnior na Zé Registra** e estudante de **Ciência da Computação na UNIP**, desde 2024, em Ribeirão Preto (SP).
 
-No trabalho, participo do desenvolvimento de funcionalidades, manutenção de sistemas internos, correção de bugs, testes e melhorias de experiência de uso. Também desenvolvo projetos próprios e trabalhos freelancer, conectando necessidades de negócio a soluções técnicas.
+Na Zé Registra, desenvolvo funcionalidades e trabalho na manutenção dos sistemas internos, incluindo correções, testes e melhorias de usabilidade. Também desenvolvo projetos próprios e atuo como freelancer desde 2025.
 
 Tenho trabalhado principalmente com **Java, Spring Boot, JavaScript, React, Node.js e PostgreSQL**. Busco aprofundar meus conhecimentos em **backend, arquitetura de software, cloud e inteligência artificial**.
 
 ## Projetos em destaque
 
-Seleção de projetos que representam diferentes problemas, decisões técnicas e tecnologias. Os links levam ao código e à documentação; as demonstrações são ambientes de portfólio e podem ter limitações.
+Aqui estão cinco projetos que desenvolvi. Cada repositório reúne o código e a documentação. As demonstrações podem exigir login ou ficar temporariamente indisponíveis.
 
 ### [QueueFlow](https://github.com/oenzoalmeida/queueflow) · Atendimento em tempo real
 
 [![Prévia do QueueFlow](https://raw.githubusercontent.com/oenzoalmeida/queueflow/main/docs/screenshots/02-dashboard.png)](https://github.com/oenzoalmeida/queueflow#capturas-de-tela)
 
-Sistema de gestão de filas, senhas e guichês com emissão no totem, atendimento operacional e display público. A comunicação em tempo real conecta as diferentes telas da operação.
+Sistema para emissão e chamada de senhas em estabelecimentos. Atendentes usam o painel operacional, enquanto totens e displays recebem as atualizações em tempo real.
 
 **Stack:** Java, Spring Boot, React, TypeScript, PostgreSQL, WebSocket/STOMP.
 
@@ -43,7 +43,7 @@ Sistema de gestão de filas, senhas e guichês com emissão no totem, atendiment
 
 [![Prévia do PratoJá](https://raw.githubusercontent.com/oenzoalmeida/pratoja/main/docs/screenshots/cardapio.png)](https://github.com/oenzoalmeida/pratoja#telas)
 
-Aplicação para catálogo, personalização de pratos, carrinho, pedidos e gestão de lojas. Inclui painéis administrativos e separação dos dados de cada estabelecimento.
+Cardápio digital para restaurantes com personalização de pratos e acompanhamento de pedidos. Cada estabelecimento administra seus produtos e pedidos em um painel próprio.
 
 **Stack:** Java, Spring Boot, Thymeleaf, PostgreSQL, Flyway.
 
@@ -55,11 +55,11 @@ Aplicação para catálogo, personalização de pratos, carrinho, pedidos e gest
 
 [![Prévia do EventPass](https://raw.githubusercontent.com/oenzoalmeida/eventpass/main/docs/screenshots/area-publica.png)](https://github.com/oenzoalmeida/eventpass#capturas-de-tela)
 
-Plataforma para publicação de eventos, inscrições, emissão de ingressos com QR Code e check-in. Inclui relatórios de presença e pontuação dos participantes após validação do ingresso.
+Sistema de inscrições em eventos com controle de vagas, ingressos por QR Code e registro de presença. Organizadores podem consultar relatórios e acompanhar a pontuação dos participantes.
 
 **Stack da versão principal:** TypeScript, React, Node.js e SQLite. Há uma migração para PostgreSQL (Neon) documentada em uma branch de homologação.
 
-**Aspectos técnicos:** controle de vagas, prevenção de inscrições duplicadas, fluxos de autorização, testes e uma jornada demonstrativa com dados fictícios.
+**Aspectos técnicos:** controle de vagas, prevenção de inscrições duplicadas, autorização por perfil e demonstração com dados fictícios.
 
 [Ver código e capturas](https://github.com/oenzoalmeida/eventpass) · [Explorar demonstração](https://eventpass.3.149.24.102.sslip.io/demo)
 
@@ -67,7 +67,7 @@ Plataforma para publicação de eventos, inscrições, emissão de ingressos com
 
 [![Prévia do AutoCiclo](https://raw.githubusercontent.com/oenzoalmeida/autociclo/main/docs/screenshots/inicio.png)](https://github.com/oenzoalmeida/autociclo#capturas-de-tela)
 
-Aplicação web para acompanhar manutenções, quilometragem, gastos, documentos e alertas de veículos. Oferece relatórios e uma experiência responsiva, incluindo instalação como PWA.
+Aplicação para registrar manutenções e despesas de veículos. Reúne quilometragem, documentos e alertas em um histórico consultável, com versão web instalável como PWA.
 
 **Stack:** Next.js, React, TypeScript, Supabase e PostgreSQL.
 
@@ -79,7 +79,7 @@ Aplicação web para acompanhar manutenções, quilometragem, gastos, documentos
 
 [![Prévia do ConfereVision](https://raw.githubusercontent.com/oenzoalmeida/ConfereVision/main/docs/screenshots/entrada.png)](https://github.com/oenzoalmeida/ConfereVision#capturas-de-tela)
 
-Sistema de conferência visual de kits por imagem ou vídeo. Compara a composição esperada com objetos detectados e sinaliza possíveis faltas e excedentes, dentro das categorias reconhecidas pelo modelo.
+Sistema que analisa fotos ou vídeos de kits e compara os objetos detectados com as quantidades cadastradas. Aponta possíveis faltas e excedentes nas categorias reconhecidas pelo modelo.
 
 **Stack:** Python, Django, OpenCV, YOLOX-s, ONNX e PostgreSQL.
 
@@ -111,7 +111,7 @@ Sistema de conferência visual de kits por imagem ou vídeo. Compara a composiç
 | **Ferramentas e infraestrutura** | Git, GitHub Actions, Docker, Vercel |
 | **Práticas presentes nos projetos** | APIs, autenticação, controle de acesso, testes automatizados, CI e modelagem de dados |
 
-A seleção acima reúne tecnologias usadas em experiências profissionais, estudos e projetos com diferentes níveis de aprofundamento; não representa o mesmo grau de domínio em todas elas.
+Uso essas tecnologias em contextos diferentes, entre o trabalho, os estudos e os projetos pessoais. Meu nível de experiência varia conforme a ferramenta.
 
 ## Experiência e formação
 
@@ -122,11 +122,11 @@ Desenvolvimento e manutenção de sistemas internos, implementação de funciona
 Em andamento desde 2024.
 
 **Projetos independentes e trabalhos freelancer**  
-Desenvolvimento de aplicações voltadas a operações, organização de dados e processos de negócios.
+Desenvolvimento de aplicações web para necessidades operacionais e administrativas.
 
 ## Portfólio
 
-[Conheça meu portfólio online](https://portfolio-enzo-almeida.vercel.app) e consulte o [código-fonte no GitHub](https://github.com/oenzoalmeida/portfolio-enzo-almeida). O site está implantado na Vercel; links para demos dos projetos dependem dos próprios serviços.
+[Conheça meu portfólio online](https://portfolio-enzo-almeida.vercel.app) e consulte o [código-fonte no GitHub](https://github.com/oenzoalmeida/portfolio-enzo-almeida). O site está hospedado na Vercel. A disponibilidade das demonstrações depende de cada projeto.
 
 ## Contato
 
@@ -135,4 +135,4 @@ Desenvolvimento de aplicações voltadas a operações, organização de dados e
 
 ---
 
-<div align="center"><sub>Projetos e documentação atualizados conforme a evolução de cada repositório.</sub></div>
+
