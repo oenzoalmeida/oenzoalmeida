@@ -25,7 +25,7 @@ Tenho trabalhado principalmente com **Java, Spring Boot, JavaScript, React, Node
 
 ## Projetos em destaque
 
-Aqui estão cinco projetos que desenvolvi. Cada repositório reúne o código e a documentação. As demonstrações podem exigir login ou ficar temporariamente indisponíveis.
+Nesta seção, apresento projetos que desenvolvi. Cada repositório reúne o código e a documentação. As demonstrações podem exigir login ou ficar temporariamente indisponíveis.
 
 ### [QueueFlow](https://github.com/oenzoalmeida/queueflow) · Atendimento em tempo real
 
